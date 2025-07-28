@@ -34,10 +34,10 @@ This project explores a dataset sourced from Kaggle that contains health-related
 
 ## 📊 Key Visualizations
 
-- Histogram of BMI distribution among diabetics  
-- Countplots of lifestyle indicators vs diabetes presence  
-- KDE plots for comparing health features  
-- Heatmaps of feature correlations  
+- Histogram of BMI distribution among diabetics y
+- ![Histogram](https://github.com/Esraa-MOhamed7/Diabetes-Risk-Analysis-using-BRFSS-2015-Health-Indicators/blob/main/Screenshot%202025-07-28%20091256.png) 
+-  Heatmaps of feature correlations
+- Stroke by Age Group and Sex    
 
 ---
 
