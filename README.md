@@ -37,6 +37,7 @@ This project explores a dataset sourced from Kaggle that contains health-related
 - Histogram of BMI distribution among diabetics y
 - ![Histogram](https://github.com/Esraa-MOhamed7/Diabetes-Risk-Analysis-using-BRFSS-2015-Health-Indicators/blob/main/Screenshot%202025-07-28%20091256.png) 
 -  Heatmaps of feature correlations
+-  ![Heatmap](https://github.com/Esraa-MOhamed7/Diabetes-Risk-Analysis-using-BRFSS-2015-Health-Indicators/blob/main/Screenshot%202025-07-28%20091556.png)
 - Stroke by Age Group and Sex    
 
 ---
